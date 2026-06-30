@@ -4,7 +4,7 @@ I am a **Software Engineering Student** in **Mutah University** living in **Amma
 
 - More About me
 - 🤝🏼 **A Team Player:** I have volunteered for **Mutah University Center of Internship**.
-- 💻 **A Coumputer Enthusiast:** I started my journy as a genral tech and coumpter Enthusiast quite young which lead me to strive to enter the IT sector.
+- 💻 **A Coumputer Enthusiast:** My journey into technology began early as a passionate enthusiast, ultimately driving my ambition to pursue a professional career in the IT sector.
 - 🧠 **Fast learner:** I tend to learn and adapt to new environments and information at a quick pase.
 
 ---
